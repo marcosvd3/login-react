@@ -1,0 +1,11 @@
+.title{
+    color:aliceblue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.botones{
+    display:block;
+    justify-content: center;
+    align-items: center;
+}

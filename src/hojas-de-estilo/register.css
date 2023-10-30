@@ -1,0 +1,39 @@
+.container-register{
+  
+    max-width: 350px;
+    height: 300px;
+    box-shadow: 0 3px 13px 3px #777777;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2%;
+    display: flex;
+    margin-top: 30%;
+    justify-content: center;
+}
+
+.boton-register{
+    margin-top: 4px;
+    display: flex;
+    margin-left: 135px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 3px;
+    background-color: rgb(35, 36, 36);
+    color:aliceblue;
+    width: 80px;
+}
+
+.boton-register:hover{
+    background-color: #414142;
+    color: #f0f8ff;
+    box-shadow: 1px 1px 1px 1px #777777;
+}
+
+input{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    border-radius: 5px;
+    height: 30px;
+    background-color: #000000;
+    color:aliceblue;
+}
